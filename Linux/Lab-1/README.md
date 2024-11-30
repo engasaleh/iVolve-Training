@@ -56,13 +56,13 @@ sudo apt install -y nginx
 ## Screenshots
 
 ### Add_Group_in_Sudoers
-![Add_Group_in_Sudoers]([https://github.com/engasaleh/iVolve-Training/blob/main/Linux/Lab-1/screenshots/Add_Group_in_Sudoers.png])
+![Add_Group_in_Sudoers](https://github.com/engasaleh/iVolve-Training/blob/main/Linux/Lab-1/screenshots/Add_Group_in_Sudoers.png)
 
 ### View Group | After Added_Group_in_Sudoers_with_user
 ![Group Creation](https://github.com/engasaleh/iVolve-Training/blob/main/Linux/Lab-1/screenshots/View_Group_1.png)
 
 ### Nginx Installation
-![Nginx Installation]([images/install-nginx.png](https://github.com/engasaleh/iVolve-Training/blob/main/Linux/Lab-1/screenshots/Check-NGINX-Version.png))
+![Nginx Installation](https://github.com/engasaleh/iVolve-Training/blob/main/Linux/Lab-1/screenshots/Check-NGINX-Version.png)
 
 ### Editing in Sudo File
 ![Sudo File] ([https://github.com/engasaleh/iVolve-Training/blob/main/Linux/Lab-1/screenshots/Editing_in_Sudo_Files.png])
