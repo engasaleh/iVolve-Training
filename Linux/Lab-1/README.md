@@ -54,9 +54,10 @@ sudo apt install -y nginx
 
 
 ## Screenshots
-### Group Creation
-![Group Creation](im/create-group.png)
+### Group Creation | Add_Group_in_Sudoers
+![Group Creation](https://github.com/engasaleh/iVolve-Training/blob/main/Linux/Lab-1/screenshots/Create%20Groud%20and%20Include%20USer.png)
 
 ### Nginx Installation
-![Nginx Installation](images/install-nginx.png)
+![Nginx Installation]([images/install-nginx.png](https://github.com/engasaleh/iVolve-Training/blob/main/Linux/Lab-1/screenshots/Check-NGINX-Version.png))
 
+### 
