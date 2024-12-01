@@ -65,4 +65,4 @@ sudo apt install -y nginx
 ![Nginx Installation](https://github.com/engasaleh/iVolve-Training/blob/main/Linux/Lab-1/screenshots/Check-NGINX-Version.png)
 
 ### Editing in Sudo File
-![Sudo File] (https://github.com/engasaleh/iVolve-Training/blob/main/Linux/Lab-1/screenshots/Editing_in_Sudo_Files.png)
+![Sudo File](https://github.com/engasaleh/iVolve-Training/blob/main/Linux/Lab-1/screenshots/Editing_in_Sudo_Files.png)
